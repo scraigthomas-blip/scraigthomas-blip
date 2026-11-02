@@ -1,0 +1,21 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="220" rx="18" fill="#111827" stroke="#3B82F6"/>
+  <rect x="0" y="0" width="900" height="30" rx="18" fill="#1F2937"/>
+
+  <circle cx="25" cy="15" r="6" fill="#FF5F56"/>
+  <circle cx="45" cy="15" r="6" fill="#FFBD2E"/>
+  <circle cx="65" cy="15" r="6" fill="#27C93F"/>
+
+  <text x="30" y="80" fill="#60A5FA" font-size="22" font-family="Verdana, sans-serif">
+    $ whoami
+  </text>
+  <text x="30" y="110" fill="#E5E7EB" font-size="22" font-family="Verdana, sans-serif">
+    craig
+  </text>
+  <text x="30" y="150" fill="#60A5FA" font-size="22" font-family="Verdana, sans-serif">
+    $ cat goals.txt
+  </text>
+  <text x="30" y="180" fill="#E5E7EB" font-size="22" font-family="Verdana, sans-serif">
+    learn • build • grow
+  </text>
+</svg>
